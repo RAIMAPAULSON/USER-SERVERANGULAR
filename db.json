@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin Paulson",
+      "email": "admin@demoapp",
+      "status": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "EMP100",
+      "name": "MAXWELL",
+      "email": "maxwell@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP102",
+      "name": "ROY",
+      "email": "roy@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "ROY102",
+      "name": "ROY",
+      "email": "roy@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "ANU123",
+      "name": "ANU",
+      "email": "anu@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "CHRISTY123",
+      "name": "CHRISTY",
+      "email": "christy@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP110",
+      "name": "ZEBA",
+      "email": "zeba@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP108",
+      "name": "ARUNIMA",
+      "email": "arunima@gmail.com",
+      "status": "0"
+    }
+  ]
+}
